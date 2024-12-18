@@ -1,10 +1,9 @@
 # House Price Prediction
 
-This repository contains a machine learning project for predicting house prices using three algorithms:
+This project predicts house prices using machine learning. The following algorithms were implemented:
 - Linear Regression
-- Gradient Boosting
+- Decision Tree
 - Random Forest
-
 
 ## Dataset
 The dataset `DataSet_LakasArak_labeled.csv` contains features and target labels for predicting house prices.
