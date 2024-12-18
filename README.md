@@ -6,7 +6,7 @@ This project predicts house prices using machine learning. The following algorit
 - Random Forest
 
 ## Dataset
-The dataset `DataSet_LakasArak_labeled.csv` contains features and target labels for predicting house prices.
+
 The dataset used is `DataSet_LakasArak_labeled.csv`, which contains features related to properties and their associated house prices.
 
 ---
