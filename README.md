@@ -5,15 +5,13 @@ This repository contains a machine learning project for predicting house prices 
 - Gradient Boosting
 - Random Forest
 
-## Project Structure
-- `data/`: Contains raw and processed datasets.
-- `notebooks/`: Jupyter notebooks for exploration and model training.
-- `src/`: Python scripts for data preprocessing, training, and evaluation.
-- `models/`: Saved models for later use.
-- `results/`: Plots and evaluation metrics.
 
-## Dependencies
-Install the required dependencies using:
-```bash
-pip install -r requirements.txt
+## Dataset
+The dataset `DataSet_LakasArak_labeled.csv` contains features and target labels for predicting house prices.
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/house-price-prediction.git
+
 
