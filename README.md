@@ -11,6 +11,6 @@ The dataset `DataSet_LakasArak_labeled.csv` contains features and target labels 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/house-price-prediction.git
+   git clone https://github.com/shuhratkulboboev/House-Price-Prediction-.git
 
 
